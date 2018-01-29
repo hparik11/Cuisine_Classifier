@@ -9,7 +9,8 @@
 
 ### How to run:
 
-> Run `Yummly_Data_Training.ipynb` first and Generate model files. (Few Model files are too big...)
+* First run `Yummly_Data_Training.ipynb` and generate model files. (Few Model files are too big...)
+
 ```
 python3 yummly_cuisine_classification.py cuisine.unlabeled.json.gz
 ```
