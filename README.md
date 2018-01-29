@@ -2,7 +2,8 @@
 
 ### Installation:
 
-* conda create -n yummlyenv python=3.6 anaconda ➢ source activate yummlyenv
+* conda create -n yummlyenv python=3.6 anaconda 
+* source activate yummlyenv
 * conda install pip
 * pip install -r requirement.txt
 
