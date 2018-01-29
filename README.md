@@ -1,10 +1,10 @@
-# Cuisine_Classifier
+# Cuisine Classifier
 
 ### Installation:
 
-➢ conda create -n yummlyenv python=3.6 anaconda ➢ source activate yummlyenv
-➢ conda install pip
-➢ pip install -r requirement.txt
+* conda create -n yummlyenv python=3.6 anaconda ➢ source activate yummlyenv
+* conda install pip
+* pip install -r requirement.txt
 
 ### How to run:
 ➢ python3 yummly_cuisine_classification.py cuisine.unlabeled.json.gz
